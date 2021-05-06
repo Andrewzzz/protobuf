@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package common.dept;
+
+message DeptError {
+  int32 code = 1;
+  string errormsg = 2;
+}
+
+message DeptInfo {
+  int32 uuid = 1;
+  string name = 2;
+}
