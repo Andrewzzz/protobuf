@@ -15,3 +15,7 @@ message DeptInfo {
 message v2 {
   int32 id = 1;
 }
+
+message v3 {
+  int32 id = 1;
+}
