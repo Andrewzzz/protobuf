@@ -19,3 +19,7 @@ message v2 {
 message v3 {
   int32 id = 1;
 }
+
+message v4 {
+  int32 id = 1;
+}
