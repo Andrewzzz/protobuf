@@ -31,3 +31,7 @@ message v5 {
 message v6 {
   int32 id = 1;
 }
+
+message v7 {
+  int32 id = 1;
+}
