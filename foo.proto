@@ -23,3 +23,7 @@ message v3 {
 message v4 {
   int32 id = 1;
 }
+
+message v5 {
+  int32 id = 1;
+}
